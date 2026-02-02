@@ -30,3 +30,10 @@ Configure multiple VLANs on a Layer 2 switch and verify that devices in differen
 - How VLANs logically segment a network
 - How switch ports are assigned to VLANs
 - Why inter-VLAN communication requires routing
+
+## Packet Tracer File
+The full lab topology and configuration can be viewed by downloading and opening the Packet Tracer file below:
+
+- `vlan-lab-1-segmentation.pkt`
+
+
